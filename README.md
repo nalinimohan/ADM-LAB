@@ -7,3 +7,5 @@ lab 02(1) (https://github.com/nalinimohan/ADM-LAB/blob/main/ADM-LAB02.ipynb)
 lab 03 (https://github.com/nalinimohan/ADM-LAB/blob/main/ADM_Lab03.ipynb)
 
 lab 04 (https://github.com/nalinimohan/ADM-LAB/blob/main/ADM_4.ipynb)
+
+lab test(https://github.com/nalinimohan/ADM-LAB/blob/main/Lab%20Test.ipynb)
